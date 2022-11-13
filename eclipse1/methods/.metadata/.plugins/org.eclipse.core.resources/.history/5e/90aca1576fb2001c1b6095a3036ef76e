@@ -1,0 +1,11 @@
+package app21_methods;
+
+public class Z16 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("from main");
+		test();
+		System.out.println(" main end );
+	}
+}

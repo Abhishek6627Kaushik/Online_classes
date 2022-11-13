@@ -1,0 +1,15 @@
+package app21_methods;
+
+public class Z15
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("From main");
+		test();//her we call test method expicitly main method
+		System.out.println("main end");
+	}
+	public static void test(int i)
+	{
+		System.out.println("from test");
+	}
+}

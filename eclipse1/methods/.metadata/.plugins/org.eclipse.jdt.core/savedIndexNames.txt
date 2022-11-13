@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\Online Class\eclipse1\methods\.metadata\.plugins\org.eclipse.jdt.core
+3925774412.index
+1355067541.index
+2888110583.index
+4209084163.index
+3347889218.index
+3552682821.index
+1865797976.index

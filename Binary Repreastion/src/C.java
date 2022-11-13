@@ -1,0 +1,9 @@
+class C 
+{
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("Binary Value For 723 "+Integer.toBinaryString(723));
+		System.out.println("Decimal Value For 1111010130 "+Integer.parseInt("1011010011",2));
+	}
+}

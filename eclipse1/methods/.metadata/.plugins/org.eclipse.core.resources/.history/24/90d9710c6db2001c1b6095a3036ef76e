@@ -1,0 +1,16 @@
+package app21_methods;
+
+public class Z14 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("From Main");
+	}
+	static void test(int i)
+	//here int i is a argument 
+	//method  can take any numnbr of arguments
+	//arguments can have any retun type
+	{
+		System.out.println("from main");
+	}
+}

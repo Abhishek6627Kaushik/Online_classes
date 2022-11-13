@@ -1,0 +1,18 @@
+class W 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("main begin");
+	}
+	public static int test()
+		System.out.println("from test");
+		return 100;
+	}
+}
+
+/* 
+
+	This is syntactical correct  and compile sucssesfully and running also
+
+	but we can not  excute test method  because we can did not test method;
+*/

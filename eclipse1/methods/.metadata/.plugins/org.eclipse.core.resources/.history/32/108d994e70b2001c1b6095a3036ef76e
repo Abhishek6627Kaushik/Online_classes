@@ -1,0 +1,17 @@
+package app21_methods;
+
+public class Z17 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("from main");
+		test(200);
+		// because data type is int so you  gave int value
+		System.out.println("main end");
+	}
+	
+	static void  test(int i)
+	{
+		System.out.println("from test");
+	}
+}
